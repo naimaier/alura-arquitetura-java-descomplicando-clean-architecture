@@ -1,6 +1,4 @@
-package br.com.alura.codechella.service;
-
-import br.com.alura.codechella.model.Usuario;
+package br.com.alura.codechella.naousar;
 
 import java.util.List;
 
